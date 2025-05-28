@@ -13,3 +13,13 @@ public class App {
         return x + y;
     }
 }
+
+/*
+mvn clean install
+   mvn exec:java
+    gradle init
+    ./gradlew build
+    ./gradlew test
+    ./gradlew run
+    
+       */
