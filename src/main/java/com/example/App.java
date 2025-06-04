@@ -16,6 +16,8 @@ public class App {
 
 /*
 mvn clean install
+mvn package
+ java -cp target/maven-example-1.0-SNAPSHOT.jar/ com.example.App
    mvn exec:java
     gradle init
     ./gradlew build
